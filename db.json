@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Item 1",
+      "price": 100,
+      "article": "I1",
+      "available": true
+    },
+    {
+      "name": "Item 2",
+      "price": 200,
+      "article": "I2",
+      "available": true
+    },
+    {
+      "name": "Item 3",
+      "price": 70,
+      "article": "I3",
+      "available": true
+    },
+    {
+      "name": "Item 4",
+      "price": 40,
+      "article": "I4",
+      "available": false
+    },
+    {
+      "name": "Item 5",
+      "price": 150,
+      "article": "I5",
+      "available": true
+    },
+    {
+      "name": "Item 6",
+      "price": 170,
+      "article": "I6",
+      "available": true
+    }
+  ]
+}
